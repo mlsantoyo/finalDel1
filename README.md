@@ -41,24 +41,24 @@ As a facilities director, I want to view the number of entrants so that I can pr
 xxxx
 
 ### Layout
-![landing page](./images/landing.png)
+![landing page](/images/landing.png)
 
-![login](./images/login.png)
+![login](/images/login.png)
 
-![signup1](./images/signup1.png)
+![signup1](/images/signup1.png)
 
-![signup2](./images/signup2.png)
+![signup2](/images/signup2.png)
 
-![filter](./images/filter.png)
+![filter](/images/filter.png)
 
-![view by date](./images/calendar.png)
+![view by date](/images/calendar.png)
 
-![view by location](./images/byClub.png)
+![view by location](/images/byClub.png)
 
-![Put me in](./images/putMeIn.png)
+![Put me in](/images/putMeIn.png)
 
-![payment page](./images/payment.png)
+![payment page](/images/payment.png)
 
-![receipt page](./images/receipt.png)
+![receipt page](/images/receipt.png)
 
-![tournament list](./images/tourneyList.png)
+![tournament list](/images/tourneyList.png)
